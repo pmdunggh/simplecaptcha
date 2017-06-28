@@ -4,7 +4,7 @@
     "type": "library",
     "description": "Generate and check captcha image",
     "keywords": ["captcha","simplecaptcha"],
-    "homepage": "www.cryptographp.com",
+    "homepage": "http://www.cryptographp.com",
     "license": "GNU v3.0",
     "authors": [
         {
