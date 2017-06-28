@@ -1,0 +1,25 @@
+{
+    "name": "pmdunggh/simplecaptcha",
+    "version": "1.4",
+    "type": "library",
+    "description": "Generate and check captcha image",
+    "keywords": ["captcha","simplecaptcha"],
+    "homepage": "www.cryptographp.com",
+    "license": "GNU v3.0",
+    "authors": [
+        {
+            "name": "Sylvain BRISON",
+            "email": "cryptographp@alphpa.com"
+        },
+        {
+            "name": "Pham Minh Dung",
+            "email": "pmdung@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VanXuan\\SimpleCaptcha\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
